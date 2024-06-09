@@ -10,6 +10,9 @@ import Services from './Components/Services';
 import { Testomonial } from './Components/Testomonial';
 
 function App() {
+
+  document.title = "Skill Marketing"
+  
   return (
     <div className="App">
         <NavBar/>

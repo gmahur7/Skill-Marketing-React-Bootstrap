@@ -6,7 +6,7 @@ const NavBar = () => {
     return (
         <nav className="navbar navbar-expand-lg bg-color py-5 pt-lg-5">
             <div className="container">
-                <NavLink className="navbar-brand" to="#">Gaurav Mahur</NavLink>
+                <NavLink className="navbar-brand" to="#">Skill Marketing</NavLink>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
