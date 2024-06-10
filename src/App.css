@@ -303,6 +303,12 @@ a {
 
 @media screen and  (max-width:576px){
     .hero-section-video {
-        width: 23rem;
+        width: 24rem;
+    }
+}
+
+@media screen and  (max-width:400px){
+    .hero-section-video {
+        width: 20rem;
     }
 }
