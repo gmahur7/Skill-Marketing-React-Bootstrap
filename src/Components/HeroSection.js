@@ -15,7 +15,7 @@ const HeroSection = () => {
                       <Button className='text-capitalize mx-auto px-5 py-2'  data-bs-toggle="tooltip" data-bs-title="Default tooltip">Contact Us</Button>
                     </div>
                 </div>
-                <div className='col-12 col-md-12 col-lg-6 1 order-lg-1'>
+                <div className='col-12 col-sm-12 col-md-12 col-lg-6 1 order-lg-1'>
                   <div className='text-center text-lg-end'>
                       <video className='hero-section-video' loop muted autoPlay>
                         <source src={hero}/>
